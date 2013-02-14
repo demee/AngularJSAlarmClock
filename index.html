@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html ng-app="AlarmClock">
+  <head>
+    <script src="/components/jquery/jquery.js"></script>
+    <script src="/components/bootstrap.css/js/bootstrap.js"></script>
+    <script src="/components/angular/angular.js"></script>
+    <script src="/alarm_clock.js"></script>
+    <link type="text/css" rel="stylesheet" href="components/bootstrap.css/css/bootstrap.css" />
+    <link type="text/css" rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="main-view">
+      <h2>Alarm Clock</h2>
+      <div ng-controller="TimeDisplayController">
+        <h1 current-time></h1>
+        <div class="al">Time left to next alarm: <span time-left></span></div>
+        <div class="al">Alarms list: </div>
+        <ul class="al">
+          <li ng-repeat="alarm in alarms">
+            <span>{{alarm}}</span>
+          </li>
+        </ul>
+        <form class="al" ng-submit="addAlarm()">
+          <input type="text" ng-model="alarmText" size="30" placeholder="add new alarm time here">
+          <input class="btn btn-primary" type="submit" value="add">
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
