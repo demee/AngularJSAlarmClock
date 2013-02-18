@@ -1,0 +1,9 @@
+{
+  "name": "require-css",
+  "version": "0.0.0",
+  "commit": "2196b2507f6b161c7dc58795df89fa0e531ad3b5",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guybedford/require-css.git"
+  }
+}
