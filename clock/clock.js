@@ -1,33 +1,18 @@
-define(['angular', 'utils/animation/animator', 'css!clock/clock'], function(angular, animator){
+define(['angular', 'css!clock/clock'], function(angular){
   'use strict';
+  console.info('loading "clock"');
 
-  var clockModule = angular.module('AlarmClock', []);
+  var clockModule = angular.module('Clock', []);
 
-  clockModule.directive('currentTime', function(dateFilter) {
-    // return the directive link function. (compile function not needed)
-    return function($scope, element, attrs) {
-      animator(function updateTime() {
-        element.text(dateFilter(new Date(), "HH:mm:ss"));
-      });
-    }
+  clockModule.controller('TimeDisplayController', function($scope, $timeout, dateFilter){
+    (function refresh() {
+      $scope.currentTime = dateFilter(new Date(), 'HH:mm:ss');
+      $timeout(refresh, 1000)
+    }());
   });
 
-  clockModule.directive('timeLeft', function($timeout, dateFilter){
-    return function($scope, element, attrs){
 
-      animator(function updateTimeLeft(){
-        element.text(((new Date() - new Date($scope.alarms[0]))/1000) + " seconds")
-      });
-    }
-  })
-
-  clockModule.controller('TimeDisplayController', function($scope){
-    $scope.alarms = [];
-
-    $scope.addAlarm = function(){
-      $scope.alarms.push(new Date($scope.alarmText));
-    }
-  });
+  clockModule.controller();
 
   return clockModule;
 });

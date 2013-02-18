@@ -9,7 +9,9 @@
     <div class="main-view alarm-clock-app">
       <h2>Alarm Clock</h2>
       <div ng-controller="TimeDisplayController">
-        <h1 current-time></h1>
+        <h1>{{currentTime}}</h1>
+      </div>
+      <div ng-controller="AlarmSetupController">
         <div class="al">Time left to next alarm: <span time-left></span></div>
         <div class="al">Alarms list: </div>
         <ul class="al">
@@ -19,8 +21,11 @@
         </ul>
         <form class="al" ng-submit="addAlarm()">
           <input type="text" ng-model="alarmText" size="30" placeholder="add new alarm time here">
-          <input class="btn btn-primary" type="submit" value="add">
+          <input current-time class="btn btn-primary" type="submit" value="add">
+          <span class="text-error">{{errorText}}</span>
+          <span class="text-success">{{alarmText | parseDate}}</span>
         </form>
+
       </div>
     </div>
     <script src="/components/requirejs/require.js" data-main='main.js'></script>

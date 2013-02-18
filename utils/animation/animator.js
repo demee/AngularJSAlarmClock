@@ -1,5 +1,7 @@
 define(function(){
+  'use strict';
 
+  console.log('loading: "animator"')
   var requestAnimationFrame = window.requestAnimationFrame       ||
                               window.webkitRequestAnimationFrame ||
                               window.mozRequestAnimationFrame    ||
