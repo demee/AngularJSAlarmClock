@@ -6,16 +6,16 @@
     <option curly="true" />
     <option eqeqeq="true" />
     <option forin="true" />
-    <option immed="false" />
-    <option latedef="false" />
-    <option newcap="false" />
+    <option immed="true" />
+    <option latedef="true" />
+    <option newcap="true" />
     <option noarg="true" />
     <option noempty="true" />
     <option nonew="true" />
     <option plusplus="false" />
-    <option regexp="false" />
+    <option regexp="true" />
     <option undef="true" />
-    <option unused="false" />
+    <option unused="true" />
     <option strict="true" />
     <option trailing="false" />
     <option asi="false" />
@@ -45,9 +45,9 @@
     <option validthis="false" />
     <option browser="true" />
     <option couch="false" />
-    <option devel="false" />
+    <option devel="true" />
     <option dojo="false" />
-    <option jquery="false" />
+    <option jquery="true" />
     <option mootools="false" />
     <option node="false" />
     <option nonstandard="false" />
@@ -61,6 +61,7 @@
     <option passfail="false" />
     <option white="false" />
     <option maxerr="50" />
+    <option predef="define, require" />
   </component>
 </project>
 
