@@ -1,37 +1,31 @@
 define(['angular', 'date'], function(angular){
   'use strict';
-  console.info('loading "alarms"');
-
 
   var alarmModule = angular.module('AlarmsList', []);
 
-  alarmModule.filter('parseDate', function(){
-    return function(input) {
-      return Date.parse(input);
-    }
-  });
-
-  alarmModule.controller('AlarmSetupController', function($scope, $timeout){
+  function AlarmSetupController($scope) {
     $scope.alarms = [];
 
-
-    $scope.addAlarm = function(){
+    $scope.addAlarm = function addAlarm() {
       var date = Date.parse($scope.alarmText);
-      console.log("Date:");
-      console.dir(date);
-      if(date){
+      if (date) {
         $scope.alarms.push(date);
         $scope.errorText = null;
       } else {
-        console.error("Date format is not correct");
         $scope.errorText = "Date format is not correct";
-        $timeout(function clearError () {
-          $scope.errorText = null;
-        }, 3000);
       }
-    }
+    };
+  }
 
-  });
+  function parseDate() {
+    return function parseDate(input) {
+      return Date.parse(input);
+    };
+  }
+
+  alarmModule.filter('parseDate', parseDate);
+  alarmModule.controller('AlarmSetupController', AlarmSetupController);
+
 
   return alarmModule;
 

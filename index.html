@@ -1,25 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <title>Alarm Clock</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link type="text/css" rel="stylesheet" href="components/bootstrap.css/css/bootstrap.css" />
+      <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
   </head>
 
   <body>
     <div class="main-view alarm-clock-app">
-      <h2>Alarm Clock</h2>
       <div ng-controller="TimeDisplayController">
         <h1>{{currentTime}}</h1>
       </div>
       <div ng-controller="AlarmSetupController">
-        <div class="al">Time left to next alarm: <span time-left></span></div>
-        <div class="al">Alarms list: </div>
-        <ul class="al">
+        <div>Time left to next alarm: <span time-left></span></div>
+        <div>Alarms list: </div>
+        <ul>
           <li ng-repeat="alarm in alarms">
             <span>{{alarm}}</span>
           </li>
         </ul>
-        <form class="al" ng-submit="addAlarm()">
+        <form ng-submit="addAlarm()">
           <input type="text" ng-model="alarmText" size="30" placeholder="add new alarm time here">
           <input current-time class="btn btn-primary" type="submit" value="add">
           <span class="text-error">{{errorText}}</span>
@@ -29,11 +30,6 @@
       </div>
     </div>
     <script src="/components/requirejs/require.js" data-main='main.js'></script>
-    <script>
-        require(['app']);
-    </script>
-
-
-
+    <script>require(['app']);</script>
   </body>
 </html>
