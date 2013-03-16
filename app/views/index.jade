@@ -1,7 +1,7 @@
 extends layout
 
 block content
-  div.main-view(alarm-clock-app)
+  div.alarm-clock-app
     div(ng-controller='TimeDisplayController')
       h1 {{currentTime}}
   div(ng-controller="AlarmSetupController")
@@ -17,6 +17,8 @@ block content
       span.text-error {{errorText}}
       span.text-success {{alarmText | parseDate}}
 
-  != js('/components/requirejs/require.js', {'data-main': '/javascripts/main.js'})
+
+  != js('components/requirejs/require.js')
   != js('/javascripts/main.js')
-  != js('/javascripts/app.js')
+
+  script require(['app']);

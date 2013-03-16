@@ -1,12 +1,12 @@
 requirejs.config
   baseUrl:          '/javascripts/'
   paths:
-    'angular':      '/components/angular/angular'
-    'jquery':       '/components/jquery/jquery'
-    'underscore':   '/components/underscore/underscore'
-    'normalize':    '/components/require-css/normalize'
-    'css':          '/components/require-css/css'
-    'date':         '/components/datejs/build/date'
+    'angular':      '/javascripts/components/angular/angular'
+    'jquery':       '/javascripts/components/jquery/jquery'
+    'underscore':   '/javascripts/components/underscore/underscore'
+    'normalize':    '/javascripts/components/require-css/normalize'
+    'css':          '/javascripts/components/require-css/css'
+    'date':         '/javascripts/components/datejs/build/date'
   shim:
     'angular':
       deps: ['jquery']

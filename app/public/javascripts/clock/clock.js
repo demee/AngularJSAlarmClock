@@ -1,6 +1,5 @@
 define([
-  'angular',
-  'css!clock/clock'
+  'angular'
 ],
 function(angular){
   'use strict';
