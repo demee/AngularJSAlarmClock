@@ -1,39 +1,5 @@
 <component name="libraryTable">
   <library name="bootstrap" type="javaScript">
-    <properties>
-      <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/phantom.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/server.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-button.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-dropdown.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-tooltip.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-popover.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-transition.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-carousel.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-scrollspy.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-alert.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-typeahead.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-affix.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-modal.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/vendor/qunit.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-popover.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-modal.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-button.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-tooltip.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-affix.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-dropdown.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-collapse.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-tab.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-phantom.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-transition.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-scrollspy.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-collapse.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-tab.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-alert.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-carousel.js" />
-        <item url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-typeahead.js" />
-      </sourceFilesUrls>
-    </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/phantom.js" />
       <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/server.js" />
