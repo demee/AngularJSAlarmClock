@@ -2,1406 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d707b2f3-bb7d-4420-85c1-068cad5cbd51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/alarms/alarms.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/clock/clock.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/clock/clock.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/angular/angular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/angular/angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/angular/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-phantom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/unit/bootstrap-typeahead.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/vendor/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/bootstrap/js/tests/vendor/qunit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/CHANGELOG.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/TODO.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-af-ZA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-AE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-BH.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-DZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-EG.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-IQ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-JO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-KW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-LB.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-LY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-MA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-OM.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-QA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-SA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-SY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-TN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ar-YE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-az-Cyrl-AZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-az-Latn-AZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-be-BY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-bg-BG.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-bs-Latn-BA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ca-ES.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-cs-CZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-cy-GB.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-da-DK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-de-AT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-de-CH.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-de-DE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-de-LI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-de-LU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-dv-MV.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-el-GR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-029.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-AU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-BZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-CA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-GB.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-IE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-JM.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-NZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-PH.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-TT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-US.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-ZA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-en-ZW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-AR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-BO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-CL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-CO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-CR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-DO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-EC.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-ES.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-GT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-HN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-MX.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-NI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-PA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-PE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-PR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-PY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-SV.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-UY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-es-VE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-et-EE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-eu-ES.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-fa-IR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-fi-FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-fo-FO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-fr-BE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-fr-CA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-fr-CH.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-fr-FR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-fr-LU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-fr-MC.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-gl-ES.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-gu-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-he-IL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-hi-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-hr-BA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-hr-HR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-hu-HU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-hy-AM.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-id-ID.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-is-IS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-it-CH.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-it-IT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ja-JP.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ka-GE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-kk-KZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-kn-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ko-KR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-kok-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ky-KG.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-lt-LT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-lv-LV.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-mi-NZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-mk-MK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-mn-MN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-mr-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ms-BN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ms-MY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-mt-MT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-nb-NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-nl-BE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-nl-NL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-nn-NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ns-ZA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-pa-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-pl-PL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-pt-BR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-pt-PT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-quz-BO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-quz-EC.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-quz-PE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ro-RO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ru-RU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sa-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-se-FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-se-NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-se-SE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sk-SK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sl-SI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sma-NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sma-SE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-smj-NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-smj-SE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-smn-FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sms-FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sq-AL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sr-Cyrl-BA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sr-Cyrl-CS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sr-Latn-BA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sr-Latn-CS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sv-FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sv-SE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-sw-KE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-syr-SY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ta-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-te-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-th-TH.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-tn-ZA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-tr-TR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-tt-RU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-uk-UA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-ur-PK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-uz-Cyrl-UZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-uz-Latn-UZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-vi-VN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-xh-ZA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-zh-CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-zh-HK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-zh-MO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-zh-SG.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-zh-TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date-zu-ZA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/date.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/extras.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/sugarpak.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/build/time.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/date.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/extras.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/af-ZA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-AE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-BH.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-DZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-EG.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-IQ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-JO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-KW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-LB.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-LY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-MA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-OM.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-QA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-SA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-SY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-TN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ar-YE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/az-Cyrl-AZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/az-Latn-AZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/be-BY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/bg-BG.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/bs-Latn-BA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ca-ES.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/cs-CZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/cy-GB.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/da-DK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/de-AT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/de-CH.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/de-DE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/de-LI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/de-LU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/dv-MV.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/el-GR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-029.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-AU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-BZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-CA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-GB.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-IE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-JM.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-NZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-PH.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-TT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-US.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-ZA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/en-ZW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-AR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-BO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-CL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-CO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-CR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-DO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-EC.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-ES.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-GT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-HN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-MX.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-NI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-PA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-PE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-PR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-PY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-SV.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-UY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/es-VE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/et-EE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/eu-ES.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/fa-IR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/fi-FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/fo-FO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/fr-BE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/fr-CA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/fr-CH.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/fr-FR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/fr-LU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/fr-MC.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/gl-ES.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/gu-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/he-IL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/hi-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/hr-BA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/hr-HR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/hu-HU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/hy-AM.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/id-ID.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/is-IS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/it-CH.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/it-IT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ja-JP.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ka-GE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/kk-KZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/kn-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ko-KR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/kok-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ky-KG.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/lt-LT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/lv-LV.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/mi-NZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/mk-MK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/mn-MN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/mr-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ms-BN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ms-MY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/mt-MT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/nb-NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/nl-BE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/nl-NL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/nn-NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ns-ZA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/pa-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/pl-PL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/pt-BR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/pt-PT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/quz-BO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/quz-EC.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/quz-PE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ro-RO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ru-RU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sa-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/se-FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/se-NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/se-SE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sk-SK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sl-SI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sma-NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sma-SE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/smj-NO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/smj-SE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/smn-FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sms-FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sq-AL.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sr-Cyrl-BA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sr-Cyrl-CS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sr-Latn-BA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sr-Latn-CS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sv-FI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sv-SE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/sw-KE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/syr-SY.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ta-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/te-IN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/th-TH.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/tn-ZA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/tr-TR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/tt-RU.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/uk-UA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/ur-PK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/uz-Cyrl-UZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/uz-Latn-UZ.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/vi-VN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/xh-ZA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/zh-CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/zh-HK.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/zh-MO.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/zh-SG.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/zh-TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/globalization/zu-ZA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/sugarpak.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/src/time.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/core/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/core/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/culture_info/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/culture_info/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/date/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/date/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/date2/date2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/date2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/date_and_time/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/date_and_time/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/date_math/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/date_math/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/dst/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/dst/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/images/accept.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/images/exclamation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/images/information.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/jQuery/datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/jQuery/datepicker.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/jQuery/datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/jQuery/datepicker_datejs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/parseExact/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/parseExact/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/partial/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/partial/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/performance/bulk.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/performance/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/performance/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/relative/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/relative/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/relative_date_and_time/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/relative_date_and_time/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/rememberthemilk/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/rememberthemilk/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/ruby_chronic/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/ruby_chronic/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/Date_Ext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/cruiser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/date-functions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/debugging.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/enumerable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/firebug/errorIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/firebug/firebug.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/firebug/firebug.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/firebug/firebug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/firebug/firebugx.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/firebug/infoIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/firebug/warningIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/jquery-1.2.1.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/specifications.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/scripts/specifications_original.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/styles/chart.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/styles/specifications.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/sugarpak/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/sugarpak/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/time/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/time/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/tostring/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/datejs/test/tostring/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/jquery/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/jquery/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/jquery/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/components/jquery/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MY_APP/public/utils/animation/animator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/routing.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/server.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap.css/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap.css/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap.css/css/bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap.css/css/bootstrap-responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap.css/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap.css/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap.css/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap.css/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap.css/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap.css/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/css/bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/css/docs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/ico/apple-touch-icon-114-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/ico/apple-touch-icon-144-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/ico/apple-touch-icon-57-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/ico/apple-touch-icon-72-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/ico/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/ico/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/bootstrap-docs-readme.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/bootstrap-mdo-sfmoma-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/bootstrap-mdo-sfmoma-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/bootstrap-mdo-sfmoma-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/bs-docs-bootstrap-features.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/bs-docs-masthead-pattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/bs-docs-responsive-illustrations.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/bs-docs-twitter-github.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/example-sites/8020select.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/example-sites/adoptahydrant.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/example-sites/breakingnews.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/example-sites/fleetio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/example-sites/gathercontent.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/example-sites/jshint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/example-sites/kippt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/example-sites/soundready.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/bootstrap-example-carousel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/bootstrap-example-fluid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/bootstrap-example-justified-nav.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/bootstrap-example-marketing-narrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/bootstrap-example-marketing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/bootstrap-example-signin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/bootstrap-example-starter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/bootstrap-example-sticky-footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/browser-icon-chrome.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/browser-icon-firefox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/browser-icon-safari.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/slide-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/slide-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/examples/slide-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/grid-baseline-20px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/less-logo-large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/img/responsive-illustrations.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap-typeahead.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/google-code-prettify/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/google-code-prettify/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/holder/holder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/assets/js/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/base-css.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/build/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/build/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/components.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/customize.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/examples/carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/examples/fluid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/examples/hero.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/examples/justified-nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/examples/marketing-narrow.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/examples/signin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/examples/starter-template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/examples/sticky-footer-navbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/examples/sticky-footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/extend.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/getting-started.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/javascript.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/scaffolding.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/templates/layout.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/templates/pages/base-css.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/templates/pages/components.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/templates/pages/customize.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/templates/pages/extend.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/templates/pages/getting-started.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/templates/pages/index.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/templates/pages/javascript.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/docs/templates/pages/scaffolding.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/bootstrap-typeahead.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/tests/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/tests/phantom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/tests/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/tests/vendor/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/js/tests/vendor/qunit.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/accordion.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/close.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/hero-unit.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/labels-badges.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/layouts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/media.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/reset.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/responsive-1200px-min.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/responsive-767px-max.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/responsive-768px-979px.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/responsive-navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/responsive.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/sprites.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/tests/buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/tests/css-tests.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/tests/css-tests.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/tests/forms-responsive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/tests/forms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/tests/navbar-fixed-top.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/tests/navbar-static-top.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/tests/navbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/type.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/less/wells.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/bootstrap/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/LICENSE-GPL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/LICENSE-MIT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/ba-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/ba-debug.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/files/ba-debug-js.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/index/Files.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/index/Functions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/index/General.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/javascript/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/javascript/searchdata.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/nd/Data/ClassHierarchy.nd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/nd/Data/ConfigFileInfo.nd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/nd/Data/FileInfo.nd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/nd/Data/ImageFileInfo.nd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/nd/Data/ImageReferenceTable.nd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/nd/Data/IndexInfo.nd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/nd/Data/PreviousMenuState.nd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/nd/Data/PreviousSettings.nd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/nd/Data/SymbolTable.nd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/nd/Languages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/nd/Menu.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/nd/Topics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/FilesJ.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/FunctionsD.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/FunctionsE.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/FunctionsI.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/FunctionsL.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/FunctionsS.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/FunctionsW.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/GeneralD.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/GeneralE.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/GeneralF.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/GeneralI.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/GeneralJ.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/GeneralL.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/GeneralP.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/GeneralR.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/GeneralS.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/GeneralW.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/search/NoResults.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/styles/1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/styles/2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/docs/styles/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/examples/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/examples/debug/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/examples/donate.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/examples/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/examples/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/LGPLv3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/clipboard.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushAS3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushBash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushCSharp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushCpp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushCss.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushDelphi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushDiff.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushGroovy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushJScript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushJava.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushJavaFX.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushPerl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushPhp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushPlain.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushPowerShell.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushPython.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushRuby.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushScala.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushSql.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushVb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shBrushXml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/scripts/shLegacy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/src/shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/src/shLegacy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/help.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/magnifier.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/page_white_code.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/page_white_copy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/printer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/shCore.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/shThemeDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/shThemeDjango.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/shThemeEmacs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/shThemeFadeToGrey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/shThemeMidnight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/shThemeRDark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/styles/wrapping.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/SyntaxHighlighter/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/jquery-1.4.2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/javascript-debug/shared/jquery.ba-bbq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/css-builder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/css.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/setup.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/www/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/www/components/component.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/www/components/component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/www/components/test.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/www/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/www/popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/www/popup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/www/require-css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/www/style/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/www/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/example/www/text.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/normalize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-css/test/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/example/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/example/setup.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/example/www/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/example/www/components/component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/example/www/components/component.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/example/www/less-style/style.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/example/www/less-style/test.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/example/www/require-css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/example/www/require-less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/example/www/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/example/www/text.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/less-builder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/less.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/lessc-server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/lessc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/require-less/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/Markdown-License.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/Markdown.pl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/dist-build.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/dist-site.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/file.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/fonts/Inconsolata.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/fonts/PT-Sans/PT_Sans.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/fonts/PT-Sans/PT_Sans_Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/fonts/PT-Sans/PT_Sans_Bold_Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/fonts/PT-Sans/PT_Sans_Caption.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/fonts/PT-Sans/PT_Sans_Caption_Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/fonts/PT-Sans/PT_Sans_Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/fonts/PT-Sans/PT_Sans_Narrow.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/fonts/PT-Sans/PT_Sans_Narrow_Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/fonts/PT-Sans/Paratype PT Sans Free Font License.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/init.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/dist/pre.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/commonjs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/contributing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/design/packages.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/dojo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/download.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/errors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/faq-advanced.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/faq-optimization.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/history.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/jquery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/node.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/optimization.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/requirements.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/start.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/why.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/docs/whyamd.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/require.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tasks.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/testBaseUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/NAMESPACE.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/afterload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/afterloadreadystate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/all-server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/all.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/allj.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/alln.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/anon/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/anon/anon-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/anon/anonSimple.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/anon/blue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/anon/c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/anon/green.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/anon/magenta.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/anon/message.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/anon/red.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/anon/sub/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/anon/yellow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/bar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/baseUrl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/appendbeforeload/one.dphpd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/appendbeforeload/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/appendbeforeload/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/async/async.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/async/one.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/async/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/docwritenested/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/docwritenested/one.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/docwritenested/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/functionToString.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/noload/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/noload/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/onerror/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/onerror/ok.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/onerror/parseError.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/onerror/scriptError.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptload/eight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptload/five.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptload/four.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptload/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptload/nine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptload/one.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptload/seven.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptload/six.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptload/three.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptload/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/eight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/five.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/four.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/four.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/index-php.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/nine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/one.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/seven.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/six.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/six.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/three.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractive/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/eight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/five.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/four.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/four.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/index-php.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/nine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/one.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/seven.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/six.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/six.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/three.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/scriptloadinteractiveattach/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/vardefine/define.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/vardefine/four.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/vardefine/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/vardefine/one.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/vardefine/three.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/browsertests/vardefine/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/414/414-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/414/414.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/414/A.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/414/B.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/414/C.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/414/MyClass.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/circularPlugin-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/circularPlugin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/complexPlugin/complexPlugin-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/complexPlugin/complexPlugin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/complexPlugin/helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/complexPlugin/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/complexPlugin/slowText.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/complexPlugin/toolbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/complexPlugin/toolbar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/complexPlugin/viewport.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/complexPlugin/viewport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/transpiler/a.refine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/transpiler/b.refine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/transpiler/c.refine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/transpiler/d.refine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/transpiler/e.refine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/transpiler/transpiler-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/circular/transpiler/transpiler.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/cjsSpace/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/cjsSpace/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/cjsSpace/c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/cjsSpace/cjsDotRequire-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/cjsSpace/cjsDotRequire.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/cjsSpace/cjsSpace-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/cjsSpace/cjsSpace.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/absolute/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/absolute/program.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/absolute/program.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/absolute/submodule/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/absolute/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/all.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/cyclic/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/cyclic/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/cyclic/program.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/cyclic/program.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/cyclic/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/determinism/program.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/determinism/program.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/determinism/submodule/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/determinism/submodule/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/determinism/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/exactExports/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/exactExports/program.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/exactExports/program.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/exactExports/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/hasOwnProperty/hasOwnProperty.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/hasOwnProperty/program.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/hasOwnProperty/program.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/hasOwnProperty/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/hasOwnProperty/toString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/method/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/method/program.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/method/program.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/method/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/missing/program.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/missing/program.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/missing/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/monkeys/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/monkeys/program.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/monkeys/program.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/monkeys/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/nested/a/b/c/d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/nested/program.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/nested/program.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/nested/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/relative/program.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/relative/program.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/relative/submodule/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/relative/submodule/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/relative/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/system.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/transitive/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/transitive/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/transitive/c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/transitive/program.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/transitive/program.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/commonjs/tests/modules/1.0/transitive/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/config.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/configRequirejs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/dataMain/baseUrl/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/dataMain/baseUrl/dataMainBaseUrl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/dataMain/baseUrl/src/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/dataMain/dataMain.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/dataMain/dataMain.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/dataMain/dataMainIndex/dataMainIndex.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/dataMain/dataMainIndex/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/defineDouble/defineDouble.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/definedSpecified/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/definedSpecified/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/definedSpecified/definedSpecified-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/definedSpecified/definedSpecified.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/delayedDefine/delayedDefine-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/delayedDefine/delayedDefine.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/depoverlap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/depoverlap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/dimple.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/_browserRunner.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/_nodeRunner.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/_rhinoRunner.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/_sounds/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/_sounds/doh.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/_sounds/dohaaa.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/_sounds/woohoo.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/runner.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/runner.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/runner.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/doh/small_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/domReady/domReady-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/domReady/domReady.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/domReady/domReadyExtraConfig-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/domReady/domReadyExtraConfig.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/domReady/one.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/domReady/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/dos.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/error/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/error/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/error/c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/error/d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/error/defineError.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/error/defineErrorLocal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/error/errorContinue.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/error/errorContinueLocal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/error/plug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/error/pluginErrorContinue.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/error/pluginErrorContinueLocal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/am.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/assign.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/assign2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/bm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/cm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/exports-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/exports.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/funcSet.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/implicitModule.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/moduleAndExports-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/moduleAndExports.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/simpleReturn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/usethis.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/exports/vanilla.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/foo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/func.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/funcFour.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/funcOne.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/funcThree.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/funcTwo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/hasOwnProperty/hasOwnProperty-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/hasOwnProperty/hasOwnProperty.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/hasOwnProperty/hasOwnProperty.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/hasOwnProperty/prototype.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/hasOwnProperty/toString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/i18n/common.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/i18n/commonA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/i18n/commonB.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/i18n/i18n.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/i18n/nls/colors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/i18n/nls/en-us-surfer/colors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/i18n/nls/fr/colors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/i18n/testModule.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/isBrowser/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/isBrowser/isBrowser-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/isBrowser/isBrowser.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/issue379/issue379.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/issue379/issue379.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jquery/jquery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jquery/jqueryDynamic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jquery/jqueryDynamic2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jquery/scripts/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jquery/scripts/dynamicApp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jquery/scripts/jquery-1.7.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jquery/scripts/jquery-GPL-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jquery/scripts/jquery-MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jquery/scripts/jquery.alpha.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jquery/scripts/jquery.beta.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jquery/scripts/jquery.epsilon.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jquery/scripts/jquery.gamma.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jsonp/jsonp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jsonp/lamp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/jsonp/twitter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/layers/build.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/layers/epsilon.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/layers/helloWorld.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/layers/layer1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/layers/layers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/a1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/a1/sub/one.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/adapter/d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/another/c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/another/c/dim.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/another/c/sub.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/another/minor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/built/mapConfig-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/built/mapConfigBuilt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/built/mapConfigPlugin-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/built/mapConfigPluginBuilt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/built/mapConfigStar-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/built/mapConfigStarAdapter-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/built/mapConfigStarAdapterBuilt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/built/mapConfigStarBuilt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/c/sub.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/c1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/c1/sub.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/c2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/c2/sub.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/e.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfig-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfig.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigDelayed-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigDelayed.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigMulti-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigMulti.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigPlugin-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigPlugin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigRelative-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigRelative.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigSpecificity-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigSpecificity.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigStar-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigStar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigStarAdapter-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/mapConfigStarAdapter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/plug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/plug/c1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/plug/c2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/mapConfig/plug/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/moduleConfig/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/moduleConfig/b/c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/moduleConfig/moduleConfig-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/moduleConfig/moduleConfig.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/moduleConfig/plain.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/multiversion.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedDefine/four.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedDefine/nestedDefine.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedDefine/nestedDefine2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedDefine/nestedDefine2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedDefine/one.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedDefine/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedRelativeRequire/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedRelativeRequire/nestedRelativeRequire.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedRelativeRequire/sub/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedRelativeRequire/sub/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedRequire/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedRequire/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedRequire/nestedRequire-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedRequire/nestedRequire.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedRequireConfig/nestedRequireConfig.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/nestedRequireConfig/nestedRequireConfig.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/onResourceLoad/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/onResourceLoad/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/onResourceLoad/nestedRequire-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/onResourceLoad/nestedRequire.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/one.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/bar/0.4/scripts/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/baz/lib/helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/baz/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/dojox/door.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/dojox/window/pane.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/dojox/window/window.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/foo/lib/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/foo/lib/second.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/funky/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/funky/lib/monkey.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/optimizing/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/optimizing/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/optimizing/optimizing-built.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/optimizing/optimizing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/optimizing/packages/engine/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/optimizing/packages/engine/pistons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/optimizing/packages/engine/sparkplugs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/optimizing/packages/fuel/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/optimizing/packages/tires/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/packages-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/packages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/pkgs/alpha/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/pkgs/alpha/replace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/pkgs/beta/0.2/scripts/beta.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/pkgs/beta/0.2/scripts/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/pkgs/dojox/chair/legs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/pkgs/dojox/chair/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/pkgs/dojox/table/legs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/pkgs/dojox/table/table.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/packages/replace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/pathArray/pathArray.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/pathArray/pathArrayFail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/pathArray/real.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/paths/first.js/first.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/paths/first.js/second.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/paths/impl/array.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/paths/impl/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/paths/paths.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/paths/relativeModuleId-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/paths/relativeModuleId.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/paths/relativeNormalize/bar/baz.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/paths/relativeNormalize/foo2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/paths/relativeNormalize/relativeNormalize-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/paths/relativeNormalize/relativeNormalize.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/paths/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/delegated/a.refine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/delegated/delegated-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/delegated/delegated.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/delegated/delegated.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/double.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/double.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/earth.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromText/a.refine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromText/b.refine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromText/fromText-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromText/fromText.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromText/fromTextConfig-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromText/fromTextConfig.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromText/refine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromTextEvalError/a.refine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromTextEvalError/b.refine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromTextEvalError/fromTextEvalError-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromTextEvalError/fromTextEvalError.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromTextNoDefine/a.refine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromTextNoDefine/fromTextNoDefine-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromTextNoDefine/fromTextNoDefine.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/fromTextNoDefine/refine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/indexBuilder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/nameOnly-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/nameOnly.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/nameOnly.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/onerror/onerror-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/onerror/onerror.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/onerror/thrower.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginLast/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginLast/bigCollection.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginLast/bigCollection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginLast/collection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginLast/collectionHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginLast/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginLast/component.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginLast/component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginLast/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginLast/pluginLast.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginLast/specificCollection.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginLast/specificCollection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginMap/dynamic/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginMap/dynamic/employee.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginMap/dynamic/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginMap/dynamic/person.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginMap/dynamic/plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginMap/dynamic/pluginMapDynamic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginMap/pluginMap-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginMap/pluginMap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginMapSameName/plugin/plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginMapSameName/pluginMapSameName-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginMapSameName/pluginMapSameName.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginShim/a.refine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginShim/legacy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginShim/pluginShim-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/pluginShim/pluginShim.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/prime/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/prime/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/prime/c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/prime/earth.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/sync-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/sync.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/textDepend/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/textDepend/textDepend-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/textDepend/textDepend.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/plugins/textDepend/textDepend.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/queryPath.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/foo/bar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/foo/bar/message.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/foo/bar/one.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/foo/bar/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/foo/three.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/greek/alpha.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/greek/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/outsideBaseUrl/2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/outsideBaseUrl/a/outsideBaseUrl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/outsideBaseUrl/b/1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/outsideBaseUrl/b/3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/relative-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/relative.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/relativeBaseUrl-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/relativeBaseUrl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/relative/top.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/remoteUrls/jqwrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/remoteUrls/remoteUrls-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/remoteUrls/remoteUrls.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/requireAsync/requireAsync-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/requireAsync/requireAsync.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/requirePluginLoad/requirePluginLoad-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/requirePluginLoad/requirePluginLoad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/shim/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/shim/b.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/shim/basic-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/shim/basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/shim/built/basic-built.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/shim/built/basic-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/shim/c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/shim/d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/shim/e.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/shim/f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/simple-badbase.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/simple-nohead.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/simple-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/simple.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/simple.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/specialDeps/foo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/specialDeps/specialDeps-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/specialDeps/specialDeps.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/local.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/plain.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/resources/local.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/resources/sample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/separate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/subwidget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/subwidget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/subwidget2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/text.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/textBuilt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/textBuilt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/textOnError.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/textOnXhr.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/textOnly.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/widget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/text/widget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/toUrl/.hidden.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/toUrl/auxil.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/toUrl/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/toUrl/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/toUrl/sub/nested/thing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/toUrl/sub/noext" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/toUrl/sub/util.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/toUrl/sub/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/toUrl/toUrl-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/toUrl/toUrl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/trailingComma/a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/trailingComma/trailingComma.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/trailingComma/trailingComma.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/tres.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/undef/globalFoo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/undef/real.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/undef/undef.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/undef/undefEnforceShim.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/undef/undefLocal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/undef/undefNoRequire.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/uniques/one.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/uniques/three.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/uniques/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/uniques/uniques.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/universal/eye.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/universal/newt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/universal/spell.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/universal/tail.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/universal/universal-built.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/universal/universal-tests-built-expected.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/universal/universal-tests-built.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/universal/universal-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/universal/universal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/uno.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/urlfetch/one.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/urlfetch/three.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/urlfetch/two.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/urlfetch/urlfetch.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/version1/alpha.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/version1/beta.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/version1/gamma.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/version1/omega.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/version2/alpha.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/version2/beta.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/version2/epsilon.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/version2/omega.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/workers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/tests/workers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/requirejs/updatesubs.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/docs/docco.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/docs/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/docs/images/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/docs/images/underscore.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/docs/underscore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/arrays.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/chaining.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/collections.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/functions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/objects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/speed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/utility.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/vendor/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/vendor/jslitmus.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/vendor/qunit.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/vendor/qunit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/test/vendor/runner.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/underscore-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/components/underscore/underscore.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Angular.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Angular.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/bootstrap.xml" afterPath="$PROJECT_DIR$/.idea/libraries/bootstrap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/index.html" afterPath="$PROJECT_DIR$/ui/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/jquery.xml" afterPath="$PROJECT_DIR$/.idea/libraries/jquery.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/routes/index.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/client/alarms/alarms.js" afterPath="$PROJECT_DIR$/app/public/javascripts/alarms/alarms.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/client/clock/clock.css" afterPath="$PROJECT_DIR$/app/public/javascripts/clock/clock.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/client/clock/clock.js" afterPath="$PROJECT_DIR$/app/public/javascripts/clock/clock.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/client/utils/animation/animator.js" afterPath="$PROJECT_DIR$/app/public/javascripts/utils/animation/animator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.coffee" afterPath="$PROJECT_DIR$/app/app.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package.json" afterPath="$PROJECT_DIR$/app/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlarmClock.iws" />
@@ -1414,8 +23,8 @@
     <file path="/server.coffee" changelist="d707b2f3-bb7d-4420-85c1-068cad5cbd51" time="1363441620056" ignored="false" />
     <file path="/routing.coffee" changelist="d707b2f3-bb7d-4420-85c1-068cad5cbd51" time="1363442840757" ignored="false" />
     <file path="/a.coffee" changelist="d707b2f3-bb7d-4420-85c1-068cad5cbd51" time="1363445515658" ignored="false" />
-    <file path="/app.coffee" changelist="d707b2f3-bb7d-4420-85c1-068cad5cbd51" time="1363449988586" ignored="false" />
-    <file path="/package.json" changelist="d707b2f3-bb7d-4420-85c1-068cad5cbd51" time="1363450286891" ignored="false" />
+    <file path="/app.coffee" changelist="d707b2f3-bb7d-4420-85c1-068cad5cbd51" time="1363451982508" ignored="false" />
+    <file path="/package.json" changelist="d707b2f3-bb7d-4420-85c1-068cad5cbd51" time="1363451549029" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1435,19 +44,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="alarms.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/alarms.js">
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="885" selection-end="885" vertical-scroll-proportion="0.0">
+            <state line="4" column="24" selection-start="91" selection-end="91" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/package.json">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ui/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="21" selection-start="23" selection-end="23" vertical-scroll-proportion="0.034722224">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="27" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alarms.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/public/javascripts/alarms/alarms.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -1462,10 +107,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/index.js">
+      <file leaf-file-name="index.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/routes/index.coffee">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -1489,8 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/alarms/alarms.js" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/clock/clock.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/compile.sh" />
@@ -1505,6 +157,8 @@
         <option value="$PROJECT_DIR$/MY_APP/app.coffee" />
         <option value="$PROJECT_DIR$/MY_APP/package.json" />
         <option value="$PROJECT_DIR$/app/package.json" />
+        <option value="$PROJECT_DIR$/app/app.js" />
+        <option value="$PROJECT_DIR$/app/app.coffee" />
       </list>
     </option>
   </component>
@@ -1601,6 +255,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlarmClock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlarmClock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlarmClock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlarmClock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -1618,6 +312,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/public/javascripts" />
       <recent name="$PROJECT_DIR$/MY_APP" />
       <recent name="$PROJECT_DIR$/MY_APP/public" />
     </key>
@@ -1677,17 +372,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1442" height="874" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25194073" sideWeight="0.6703601" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25194073" sideWeight="0.6703601" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32963988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1766,14 +461,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui/index.html">
+    <entry file="file://$PROJECT_DIR$/app/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="4" column="24" selection-start="91" selection-end="91" vertical-scroll-proportion="-2.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
+    <entry file="file://$PROJECT_DIR$/ui/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -1787,6 +482,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/index.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1794,23 +510,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/index.js">
+    <entry file="file://$PROJECT_DIR$/app/app.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="27" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/javascripts/alarms/alarms.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/alarms.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="885" selection-end="885" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="21" selection-start="23" selection-end="23" vertical-scroll-proportion="0.034722224">
           <folding />
         </state>
       </provider>

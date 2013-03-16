@@ -2,12 +2,15 @@
   "name": "AlarmClock",
   "version": "0.0.1",
   "private": true,
+  "readme": "README.md",
   "scripts": {
     "start": "node app"
   },
   "dependencies": {
     "express": "3.1.0",
     "jade": ">= 0.0.1",
+    "less": "*",
+    "coffee-script": "*",
     "connect-assets": "2.4.0"
   }
 }
