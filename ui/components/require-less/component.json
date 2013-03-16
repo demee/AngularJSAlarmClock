@@ -1,9 +1,0 @@
-{
-  "name": "require-less",
-  "version": "0.0.0",
-  "commit": "72cc5aeb857a293472b5d3135f850fb846d0204e",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/guybedford/require-less.git"
-  }
-}

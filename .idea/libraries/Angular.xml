@@ -5,6 +5,7 @@
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/components/angular/angular.js" />
+      <root url="file://$PROJECT_DIR$/components/angular/angular.js" />
     </CLASSES>
     <SOURCES />
   </library>

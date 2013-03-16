@@ -31,6 +31,36 @@
       <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-alert.js" />
       <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-carousel.js" />
       <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-typeahead.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/phantom.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/server.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-button.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-dropdown.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-tooltip.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-popover.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-transition.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-carousel.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-scrollspy.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-alert.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-typeahead.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-affix.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-modal.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/vendor/qunit.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-popover.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-button.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-modal.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-tooltip.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-affix.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-dropdown.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-collapse.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-tab.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/tests/unit/bootstrap-phantom.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-transition.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-scrollspy.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-collapse.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-tab.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-alert.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-carousel.js" />
+      <root url="file://$PROJECT_DIR$/components/bootstrap/js/bootstrap-typeahead.js" />
     </CLASSES>
     <SOURCES />
   </library>
