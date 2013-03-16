@@ -1,5 +1,22 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  div.main-view(alarm-clock-app)
+    div(ng-controller='TimeDisplayController')
+      h1 {{currentTime}}
+  div(ng-controller="AlarmSetupController")
+    div Time left to next alarm:
+      span(time-left)
+    div Alarms List
+    ul
+      li(ng-repeat="alarm in alarms")
+
+    form(ng-submit='addAlarm()')
+      input(type='text', ng-model='alarmText', size='30', placeholder='add new alarm time here')
+      input.btn.btn-primary(current-time, type='submit', value='add')
+      span.text-error {{errorText}}
+      span.text-success {{alarmText | parseDate}}
+
+  != js('/components/requirejs/require.js', {'data-main': '/javascripts/main.js'})
+  != js('/javascripts/main.js')
+  != js('/javascripts/app.js')
