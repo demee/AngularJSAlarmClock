@@ -2,20 +2,22 @@ extends layout
 
 block content
   div.alarm-clock-app
-    div(ng-controller='TimeDisplayController')
+    div(ng-controller="TimeDisplayController")
       h1.current-time {{currentTime}}
     div(ng-controller="AlarmSetupController")
       div Time left to next alarm:
         span(time-left) {{timeLeft}}
 
       ul
-        li(ng-repeat="alarm in alarms") {{alarm}}
+        div.alarm(ng-repeat="alarm in alarms")
+          li {{alarm}}
+          input(type="checkbox", ng-model="active")
 
-      form.add-alarm-form(ng-submit='addAlarm()')
-        input(type='text', ng-model='alarmText', size='30', placeholder='add new alarm time here')
-        input.btn.btn-primary(current-time, type='submit', value='Add')
-        div.text-error(ng-show="errorText") {{errorText}}
-        div.text-success(ng-show="alarmText") {{alarmText | parseDate}}
+      form.add-alarm-form(ng-submit="addAlarm()")
+        input(type="date", ng-model="newAlarmDate")
+        input(type="time", ng-model="newAlarmTime")
+        input.btn.btn-primary(current-time, type="submit", value="Add")
+
 
 
   != js('components/requirejs/require.js')

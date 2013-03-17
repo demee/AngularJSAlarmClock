@@ -5,21 +5,28 @@ define ['angular'], (angular) ->
 
   alarmModule = angular.module 'AlarmsList', [], ->
 
+  parseNewAlarmDate = ($scope) ->
+    date = $scope.newAlarmDate
+    time = $scope.newAlarmTime
+    dateTimeString = [date, ' ', time].join('')
+    newAlarmTimestamp = Date.parse(dateTimeString)
+    new Date(newAlarmTimestamp)
+
   AlarmSetupController = ($scope) ->
     $scope.alarms = []
     $scope.addAlarm = ->
-      date = Date.parse $scope.alarmText
-      if date
-        $scope.alarms.push date
+      newAlarmDate = parseNewAlarmDate $scope
+      if newAlarmDate
+        $scope.alarms.push newAlarmDate
         $scope.errorText = null;
       else
         $scope.errorText = "Date format is not correct";
 
-  parseDate = ->
+  printDate = ->
     (input) ->
       Date.parse input
 
-  alarmModule.filter 'parseDate', parseDate
+  alarmModule.filter 'printDate', printDate
   alarmModule.controller 'AlarmSetupController', AlarmSetupController
 
   alarmModule
