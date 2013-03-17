@@ -1,8 +1,29 @@
+@import "lesshat";
+
 body {
-  padding: 50px;
+  padding: 20px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  .gradient(~"linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%)");
+  height: 100%;
 }
 
-a {
-  color: #00B7FF;
+div.alarm-clock-app {
+  width: 300px;
+  height: 100%;
+  .border-radius(10px);
+  background-color: #fff;
+  padding: 20px;
+  .current-time {
+    text-align: center;
+  }
+
+  form.add-alarm-form {
+    input {
+      vertical-align: baseline;
+      margin-right: 5px;
+    }
+    div.text-error, div.text-success{
+      display: none;
+    }
+  }
 }
