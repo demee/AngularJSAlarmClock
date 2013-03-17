@@ -5,6 +5,7 @@ css.root = '/stylesheets'
 js.root = '/javascripts'
 
 #this is a hack but well, need to do register javascripts for render
+#due to the limitations of assets-component
 scripts = ['app.js',
            'alarms/alarms.js',
            'clock/clock.js'
