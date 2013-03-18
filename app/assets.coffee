@@ -5,14 +5,13 @@ css.root = '/stylesheets'
 js.root = '/javascripts'
 
 #this is a hack but well, need to do register javascripts for render
-#due to the limitations of assets-component
+#due to the weirt requirement of assets-component
 scripts = ['app.js',
            'alarms/alarms.js',
            'clock/clock.js'
-           'components/angular/angular.js'
-           'components/jquery/jquery.js'
-           'components/underscore/underscore.js'
-           'components/datejs/build/date.js']
+           'components/angular.js'
+           'components/jquery.js'
+           'components/underscore.js']
 
 js script for script in scripts
 

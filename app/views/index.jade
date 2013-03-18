@@ -12,7 +12,7 @@ block content
         div.alarm(ng-repeat="alarm in alarms")
           li {{alarm}}
           input(type="checkbox", ng-model="active")
-
+      hr
       form.add-alarm-form(ng-submit="addAlarm()")
         input(type="date", ng-model="newAlarmDate")
         input(type="time", ng-model="newAlarmTime")
@@ -20,7 +20,7 @@ block content
 
 
 
-  != js('components/requirejs/require.js')
+  != js('components/require.js')
   != js('/javascripts/main.js')
 
   script require(['app']);

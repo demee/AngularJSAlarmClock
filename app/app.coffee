@@ -7,12 +7,11 @@ assets = require './assets'
 
 app = express();
 
-
 app.configure ->
   app.set 'port', process.env.PORT || 3000
   app.set 'view engine', 'jade'
   app.set 'views', __dirname + '/views'
-  app.use express['static'] __dirname + 'public'
+  app.use express['static'] (__dirname + '/public')
 
   app.use express.favicon()
   app.use express.logger('dev')
