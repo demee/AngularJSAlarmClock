@@ -7,17 +7,14 @@ block content
     div(ng-controller="AlarmSetupController")
       div Time left to next alarm:
         span(time-left) {{timeLeft}}
-
       ul
-        li.alarm(ng-repeat="alarm in alarms", ng-class="active") {{alarm}}
-          span(ng-show="active") Active
+        li.alarm(ng-repeat="alarm in alarms | sortDates", ng-class="active") {{alarm | printDate}}
           input(type="checkbox", ng-model="active", name="active", ng-true-value="active", ng-false-value="")
-
-      hr
       form.add-alarm-form(ng-submit="addAlarm()")
         input(type="date", ng-model="newAlarmDate")
         input(type="time", ng-model="newAlarmTime")
         input.btn.btn-primary(current-time, type="submit", value="Add")
+      div.text-error {{errorText}}
 
 
 

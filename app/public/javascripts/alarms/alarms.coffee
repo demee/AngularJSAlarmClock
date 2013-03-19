@@ -8,7 +8,7 @@ define ['angular'], (angular) ->
   parseNewAlarmDate = ($scope) ->
     date = $scope.newAlarmDate
     time = $scope.newAlarmTime
-    dateTimeString = [date, ' ', time].join('')
+    dateTimeString = "#{date} #{time}"
     newAlarmTimestamp = Date.parse(dateTimeString)
     new Date(newAlarmTimestamp)
 
@@ -16,19 +16,26 @@ define ['angular'], (angular) ->
     $scope.alarms = []
     $scope.addAlarm = ->
       newAlarmDate = parseNewAlarmDate $scope
-      if newAlarmDate
+      if newAlarmDate.toString() isnt 'Invalid Date'
         $scope.alarms.push newAlarmDate
         $scope.errorText = null;
       else
-        $scope.errorText = "Date format is not correct";
+        $scope.errorText = newAlarmDate.toString();
     $scope.clickCheckbox = ->
       console.log($scope.active)
 
   printDate = ->
     (input) ->
-      Date.parse input
+      "#{input.toLocaleDateString()} #{input.toLocaleTimeString()}"
+
+  sortDates = ->
+    (input) ->
+      input.sort((entryA, entryB)->
+        entryA > entryB
+      )
 
   alarmModule.filter 'printDate', printDate
+  alarmModule.filter 'sortDates', sortDates
   alarmModule.controller 'AlarmSetupController', AlarmSetupController
 
 

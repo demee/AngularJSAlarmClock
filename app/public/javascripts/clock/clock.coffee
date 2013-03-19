@@ -5,11 +5,16 @@ define ['angular'], (angular) ->
 
   clockModule = angular.module 'Clock', []
 
+
   TimeDisplayController = ($scope, $timeout, dateFilter) ->
-    (refresh = ->
+    refresh = ->
       $scope.currentTime = dateFilter new Date(), 'HH:mm:ss'
+
+    $scope.$watch 'currentTime', ->
       $timeout refresh, 1000
-    )()
+
+    refresh()
+
 
   clockModule.controller 'TimeDisplayController', TimeDisplayController
 

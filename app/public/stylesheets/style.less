@@ -36,12 +36,16 @@ div.alarm-clock-app {
     width: 293px;
     li.alarm {
       position: relative;
+      padding: 3px 5px;
+      .border-radius(3px);
+      margin: 0 0 3px 0;
       list-style: none;
       &.active {
-        background-color: #ffff4f;
+        background-color: lightgoldenrodyellow;
       }
       input {
         position: absolute;
+        vertical-align: middle;
         right: 0;
       }
     }
@@ -84,8 +88,8 @@ div.alarm-clock-app {
     input[type=submit]:active {
       .gradient(~"linear-gradient(top, rgba(255,127,4,1) 0%,,rgba(255,124,0,1) 50%,rgba(255,167,61,1) 51%,rgba(255,183,107,1) 100%)");
     }
-    div.text-error, div.text-success{
-      display: none;
-    }
+  }
+  div.text-error{
+    color: darkorange;
   }
 }
