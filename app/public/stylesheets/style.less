@@ -26,28 +26,30 @@ div.alarm-clock-app {
     font-size: 3em;
     margin-top: 0px;
     margin-bottom: 5px;
-    color: dimgray;
-    text-shadow: -1px -1px gray;
+    color: coral;
+    text-shadow: 1px 1px white, 2px 2px 3px gray;
   }
 
   ul {
     margin: 10px 0;
     padding: 0;
     width: 293px;
-    div.alarm {
+    li.alarm {
       position: relative;
-      li {
-        list-style: none;
-        display: inline;
+      list-style: none;
+      &.active {
+        background-color: #ffff4f;
       }
       input {
         position: absolute;
         right: 0;
       }
     }
+
   }
 
   form.add-alarm-form {
+    position: relative;
     input {
       border: 1px solid darkgrey;
       .border-radius(2px);
@@ -67,18 +69,20 @@ div.alarm-clock-app {
     input[type=submit] {
       vertical-align: baseline;
       padding: 4px 5px;
-      .gradient(~"linear-gradient(top, rgba(109,179,242,1) 0%,rgba(84,163,238,1) 50%,rgba(54,144,240,1) 51%,rgba(30,105,222,1) 100%)");
+      .gradient(~"linear-gradient(top, rgba(255,183,107,1) 0%,rgba(255,167,61,1) 50%,rgba(255,124,0,1) 51%,rgba(255,127,4,1) 100%)");
       border-color: lightblue;
       color: white;
       text-shadow: 1px 1px gray;
       font-weight: bolder;
       cursor: pointer;
+      position: absolute;
+      right: 0;
     }
     input[type=submit]:hover {
-      border-color: blue;
+      border-color: orange;
     }
     input[type=submit]:active {
-      .gradient(~"linear-gradient(top, rgba(30,105,222,1) 0%,rgba(84,163,238,1) 50%,rgba(54,144,240,1) 51%,rgba(109,179,242,1) 100%)");
+      .gradient(~"linear-gradient(top, rgba(255,127,4,1) 0%,,rgba(255,124,0,1) 50%,rgba(255,167,61,1) 51%,rgba(255,183,107,1) 100%)");
     }
     div.text-error, div.text-success{
       display: none;

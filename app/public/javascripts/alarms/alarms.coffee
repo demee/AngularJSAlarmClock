@@ -21,6 +21,8 @@ define ['angular'], (angular) ->
         $scope.errorText = null;
       else
         $scope.errorText = "Date format is not correct";
+    $scope.clickCheckbox = ->
+      console.log($scope.active)
 
   printDate = ->
     (input) ->
@@ -28,5 +30,6 @@ define ['angular'], (angular) ->
 
   alarmModule.filter 'printDate', printDate
   alarmModule.controller 'AlarmSetupController', AlarmSetupController
+
 
   alarmModule
